@@ -16,7 +16,7 @@
     "ws": "^7.3.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.5"
+    "nodemon": "^2.0.6"
   },
   "prettier": {
     "semi": false,
